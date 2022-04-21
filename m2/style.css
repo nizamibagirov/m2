@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.main {
+    width: 334px;
+    height: auto;
+    margin: 232px auto;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.head {
+    width: 334px;
+    height: 28px;
+    background-color: rgba(255, 220, 64, 1);
+    border-radius: 10px 10px 0 0;
+}
+
+h1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+input {
+    border: 0;
+    width: 220.3px;
+    height: 35px;
+    margin-left: 10px;
+    outline: none;
+}
+
+ul li {
+    list-style: none;
+}
+
+.delete {
+    margin-top: 5px;
+    width: 15px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #C4C4C4;
+    color:#C4C4C4 ;
+    border-radius: 71px;
+    padding: 6px;
+}
+
+.list {
+    display: block;
+    height: fit-content;
+    min-height: 35px;
+    width: 280px;
+    border-radius: 10px;
+    margin-top: 11px;
+    margin-left: 28px;
+    padding-bottom: 11px;
+    /* padding: 0 0 0 24px; */
+    border: 1px solid #C4C4C4;
+}
+
+.duyme {
+    margin: 20.65px 0 23px 91.72px;
+    border: 0;
+    background-color: white;
+}
+
+
+.sortbtn {
+    background-color: white;
+    border: 0;
+    width: 25px;
+    height: 15px;
+    /* background-image: url('images/noazalan.png'); */
+    margin-left: 281px;
+}
+
+.pls {
+    padding-top: 13px;
+    width: 42px;
+    height: 29px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    background: #AA68FE;
+    border-radius: 71px;
+}
+
+.duyme {
+    width: 150px;
+    height: 42px;
+    background: #9953F1;
+    border-radius: 71px;
+}
+
+p {
+    margin-left: 70px;
+    margin-top: -29px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
